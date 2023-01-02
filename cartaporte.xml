@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DDJJ>
+  <Programa>2</Programa>
+  <TipoCta>61</TipoCta>
+  <Version>1</Version>
+  <Fecha>21/12/2022</Fecha>
+  <NroAgente>21/12/2022</NroAgente>
+  <Periodo>202211</Periodo>
+  <NroRec>202211</NroRec>
+  <RegInformados>4</RegInformados>
+  <Operaciones>
+    <Detalle>
+      <FechaOperacion>04/11/2022</FechaOperacion>
+      <NroCartaPorte>10207187140</NroCartaPorte>
+      <CuitTitular>30500120882</CuitTitular>
+      <CuitDestinatario>33503769269</CuitDestinatario>
+      <CuitTransportista>33503769269</CuitTransportista>
+      <Procedencia>6419</Procedencia>
+      <Destino>19051</Destino>
+      <Grano>19051</Grano>
+      <KgTransportados>28340</KgTransportados>
+      <KmaRecorrer>28340</KmaRecorrer>
+      <Tarifa>28340</Tarifa>
+      <NroContrato/>
+      <NroOblea/>
+      <NroGuia/>
+      <NroVagones>0</NroVagones>
+      <Vagones>
+        <Vagon/>
+        <KgTransportadosVagon/>
+        <NroGuiaVagon/>
+      </Vagones>
+    </Detalle>
+  </Operaciones>
+</DDJJ>
